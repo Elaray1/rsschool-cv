@@ -11,7 +11,7 @@
 4.
   - Html
   - Css (Scss)
-  - JavaScript [Book](https://learn.javascript.ru/)
+  - JavaScript [(Book)](https://learn.javascript.ru/)
   - JQuery
   - Frameworks
     - The basics of Angular
@@ -25,4 +25,11 @@
   * Two real layout projects (Html, Css)
   * Three real JavaScript projects (JS, Html, Css, JQuery, Php, Canvas)
   * Interesting project on React for myself [My social network ^_^](https://github.com/Elaray1/reactProject)
+
 7.
+  * HtmlAcademy
+  * CodeAcademy
+  * [Online JavaScript book](https://learn.javascript.ru/)
+  * Different Youtube courses
+
+8. I studied English at school and in the first year of university.
