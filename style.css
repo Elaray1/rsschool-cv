@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: 'Roboto Slab', serif;
+  padding-bottom: 50px;
+  background-color: #cac4b0;
+}
+.resume-wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.resume-wrapper ul {
+  list-style: none;
+}
+.resume-name {
+  width: 20%;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  margin-top: 10px;
+  text-align: center;
+  border: 4px double black;
+  background-color: #beada1;
+}
+.resume-info {
+  padding: 30px;
+  font-size: 18px;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  background-color: rgba(0, 0, 0, 0.03);
+}
+.list-point {
+  color: #e34234;
+}
+.resume-wrapper .list-with-dots {
+  margin-left: 20px;
+  list-style: initial;
+}
+.list-with-dots li {
+  margin-left: 20px;
+}
+.resume-info img {
+  position: relative;
+  float: right;
+  border: 1px solid #884535;
+  border-radius: 10px;
+}
