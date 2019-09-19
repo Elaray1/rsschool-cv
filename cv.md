@@ -13,9 +13,8 @@
   - Css (Scss)
   - JavaScript [(Book)](https://learn.javascript.ru/)
   - JQuery
-  - Frameworks
-    - The basics of Angular
-    - The basics of React
+  - The basics of Angular
+  - The basics of React
   - Git
   - C++ (learning in BSUIR)
 
