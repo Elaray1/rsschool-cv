@@ -1,6 +1,6 @@
 1. Egor Emelyanov
 
-2.
+2. Contacts:
    * Telegram: [Link to Telegram!](https://t.me/Elaray)
    * VK: [Link to VK!](https://vk.com/elaray)
    * Skype:  live:8eca51939166344d
@@ -8,7 +8,7 @@
 
 3. I like programming, because I have the freedom of action and can create what comes to my mind. For me programming it is solving interesting tasks. I can work with interesting people and share knowledge with them. Also, be a programmer - be a highly paid specialist with a good social package.
 
-4.
+4. Skills:
   - Html
   - Css (Scss)
   - JavaScript [(Book)](https://learn.javascript.ru/)
@@ -21,12 +21,12 @@
 
 5. https://github.com/Elaray1/reactProject
 
-6.
+6. Experience:
   * Two real layout projects (Html, Css)
   * Three real JavaScript projects (JS, Html, Css, JQuery, Php, Canvas)
-  * Interesting project on React for myself [My social network ^_^](https://github.com/Elaray1/reactProject)
+  * Interesting project on React for myself [(My social network ^_^)](https://github.com/Elaray1/reactProject)
 
-7.
+7. Education:
   * HtmlAcademy
   * CodeAcademy
   * [Online JavaScript book](https://learn.javascript.ru/)
