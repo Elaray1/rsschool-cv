@@ -1,1 +1,1 @@
-https://github.com/Elaray1/rsschool-cv/blob/gh-pages/cv.md
+https://elaray1.github.io/rsschool-cv/cv
