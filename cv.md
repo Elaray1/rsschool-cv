@@ -1,6 +1,6 @@
 1. Egor Emelyanov
 
-2. * Telegram: [Link to Telegram!](https://t.me/Elaray)
+2. Telegram: [Link to Telegram!](https://t.me/Elaray)
 
 3. I like programming, because I have the freedom of action and can create what comes to my mind. For me programming it is solving interesting tasks. I can work with interesting people and share knowledge with them. Also, be a programmer - be a highly paid specialist with a good social package.
 
