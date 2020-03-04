@@ -9,15 +9,14 @@ My name is Egor Emelyanov, 19 years old. I'm studying second year student at BSU
   - Html
   - Css (Scss)
   - JavaScript
-  - _The basics of React_
+  - React + Redux
   - Git
   - C++ (learning in BSUIR)
 
-### My projects:
+### Examples of my projects:
    - [Bird game (React)](https://github.com/Elaray1/songbird) - [Demo!](https://songbird1.netlify.com/)
-   - [React project example](https://github.com/Elaray1/reactProject) - [Demo!](https://elaraysocialnetwork.netlify.com/)
-   - [Responsive layout example](https://stupefied-rosalind-36cc78.netlify.com/)
    - **[Weather forecast project](https://condescending-sammet-d7ea0d.netlify.com/)**
+   - [Responsive layout example](https://stupefied-rosalind-36cc78.netlify.com/)
 
 ### English level:
   - Written -> **B1**
