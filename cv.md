@@ -11,6 +11,7 @@ My name is Egor Emelyanov, 19 years old. I'm studying second year student at BSU
   - JavaScript
   - React + Redux
   - Git
+  - Node.js basics
   - C++ (learning in BSUIR)
 
 ### Examples of my projects:
